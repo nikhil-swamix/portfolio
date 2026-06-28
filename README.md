@@ -45,6 +45,15 @@ See [CONTRIBUTIONS.md](CONTRIBUTIONS.md) for the full public contribution report
 
 Machine-readable data lives in [data/public-contributions.json](data/public-contributions.json).
 
+## Stack Overflow profile
+
+See [STACKOVERFLOW.md](STACKOVERFLOW.md) for a public Stack Overflow summary, including:
+
+- reputation and badge counts
+- lifetime answers and questions
+- top tags by answer activity
+- machine-readable data in [data/stackoverflow.json](data/stackoverflow.json)
+
 ## Triage notes
 
 I reviewed the full repository set and prioritized projects that are:

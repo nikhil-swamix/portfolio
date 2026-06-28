@@ -71,6 +71,11 @@ A public history of my issues, PRs, comments, and other contribution signals on 
 - Full machine-readable dataset: `data/public-contributions.json`
 - Includes all public issue comments, authored issues, authored PRs, and summary totals
 
+## Related public profiles
+
+- Stack Overflow summary: [STACKOVERFLOW.md](STACKOVERFLOW.md)
+- Stack Overflow machine-readable data: `data/stackoverflow.json`
+
 ## Notes
 
 - Issue comments include both issue discussion comments and PR conversation comments when they appear under GitHub’s issue-comment model.
