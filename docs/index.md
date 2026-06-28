@@ -194,15 +194,6 @@ The curated project list was chosen using a practical mix of originality, public
 - [google-search](https://github.com/web-agent-master/google-search): runtime i18n support, locale flag, and localized logs
 - PR: [#14](https://github.com/web-agent-master/google-search/pull/14)
 
-## GitHub Pages site
-
-This repository is now set up to publish a GitHub Pages site from the `docs/` folder in the same repo.
-
-- Pages source: [`docs/index.md`](docs/index.md)
-- Pages config: [`docs/_config.yml`](docs/_config.yml)
-
-The published site mirrors the portfolio summary so the same repository can serve as both source of truth and public landing page.
-
 ## Closing note
 
 This portfolio is meant to be a concise but data-rich proof of work. It emphasizes what was built, how much activity accumulated around it, and which contributions sparked visible engagement. The goal is not just to list repositories, but to show a sustained pattern of engineering effort, public problem solving, and practical technical judgment.
