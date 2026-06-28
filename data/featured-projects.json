@@ -1,0 +1,98 @@
+[
+  {
+    "repo": "nikhil-swamix/TerminalProfileManager",
+    "name": "TerminalProfileManager",
+    "type": "Windows tooling",
+    "stars": 21,
+    "forks": 1,
+    "commits": 26,
+    "approx_loc": 30177,
+    "updated_at": "2026-01-25T14:36:13Z",
+    "impact": "Highest-reach repo in the set; utility plugin for Microsoft Terminal",
+    "url": "https://github.com/nikhil-swamix/TerminalProfileManager"
+  },
+  {
+    "repo": "nikhil-swamix/Devops-Showcase",
+    "name": "Devops-Showcase",
+    "type": "DevOps / portfolio",
+    "stars": 3,
+    "forks": 3,
+    "commits": 12,
+    "approx_loc": 5435,
+    "updated_at": "2022-01-17T07:50:41Z",
+    "impact": "Demonstrates collaboration and DevOps presentation skills",
+    "url": "https://github.com/nikhil-swamix/Devops-Showcase"
+  },
+  {
+    "repo": "nikhil-swamix/IndiaTools",
+    "name": "IndiaTools",
+    "type": "Python library",
+    "stars": 2,
+    "forks": 2,
+    "commits": 54,
+    "approx_loc": 790,
+    "updated_at": "2023-12-31T22:56:19Z",
+    "impact": "Templating / utility engine with strong technical depth",
+    "url": "https://github.com/nikhil-swamix/IndiaTools"
+  },
+  {
+    "repo": "nikhil-swamix/MongEasy",
+    "name": "MongEasy",
+    "type": "JavaScript library",
+    "stars": 2,
+    "forks": 0,
+    "commits": 11,
+    "approx_loc": 471,
+    "updated_at": "2025-02-07T07:24:27Z",
+    "impact": "Simplifies MongoDB interaction with an intuitive schema approach",
+    "url": "https://github.com/nikhil-swamix/MongEasy"
+  },
+  {
+    "repo": "nikhil-swamix/sambanova-copilot",
+    "name": "sambanova-copilot",
+    "type": "AI assistant",
+    "stars": 1,
+    "forks": 0,
+    "commits": 11,
+    "approx_loc": 1181,
+    "updated_at": "2025-01-21T00:17:52Z",
+    "impact": "Multimodal assistant with voice, image, web, and process interactions",
+    "url": "https://github.com/nikhil-swamix/sambanova-copilot"
+  },
+  {
+    "repo": "nikhil-swamix/PDF2Text",
+    "name": "PDF2Text",
+    "type": "Document processing",
+    "stars": 2,
+    "forks": 0,
+    "commits": 6,
+    "approx_loc": 1293,
+    "updated_at": "2021-09-09T07:19:23Z",
+    "impact": "Practical PDF extraction / text mining utility",
+    "url": "https://github.com/nikhil-swamix/PDF2Text"
+  },
+  {
+    "repo": "nikhil-swamix/ComputerGraphicsProject",
+    "name": "ComputerGraphicsProject",
+    "type": "3D graphics / coursework",
+    "stars": 1,
+    "forks": 0,
+    "commits": 8,
+    "approx_loc": 872,
+    "updated_at": "2021-08-21T05:03:25Z",
+    "impact": "Solid academic project with real implementation depth",
+    "url": "https://github.com/nikhil-swamix/ComputerGraphicsProject"
+  },
+  {
+    "repo": "nikhil-swamix/llm-services",
+    "name": "llm-services",
+    "type": "LLM infrastructure",
+    "stars": 0,
+    "forks": 0,
+    "commits": 3,
+    "approx_loc": 128,
+    "updated_at": "2025-12-05T11:15:17Z",
+    "impact": "Centralized LLM services / tools / pipelines repo",
+    "url": "https://github.com/nikhil-swamix/llm-services"
+  }
+]
