@@ -50,6 +50,11 @@ A recent open-source contribution was also included separately:
 
 - `web-agent-master/google-search` PR #14: runtime i18n support
 
+A full public contribution history is now documented in:
+
+- [`CONTRIBUTIONS.md`](CONTRIBUTIONS.md)
+- [`data/public-contributions.json`](data/public-contributions.json)
+
 ## Notes on LOC and commits
 
 - Commit counts were gathered from the default branch history.

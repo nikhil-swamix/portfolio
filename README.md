@@ -10,7 +10,7 @@ A curated portfolio of my strongest GitHub projects, selected from a full triage
 - Public forks: **16**
 - Private repositories: **21**
 - Featured portfolio projects: **8**
-- Featured projects total commits: **134**
+- Featured projects total commits: **131**
 - Featured projects approx. source LOC: **40,435**
 
 > LOC is an approximate source-line count based on tracked code/config files only.
@@ -33,6 +33,17 @@ A curated portfolio of my strongest GitHub projects, selected from a full triage
 
 - [google-search](https://github.com/web-agent-master/google-search): runtime i18n support, locale flag, and localized logs
 - PR: [#14](https://github.com/web-agent-master/google-search/pull/14)
+
+## Public contribution history
+
+See [CONTRIBUTIONS.md](CONTRIBUTIONS.md) for the full public contribution report, including:
+
+- authored issues and pull requests
+- issue / PR comments
+- reaction signals on comments and threads
+- all-time summary totals since 2019
+
+Machine-readable data lives in [data/public-contributions.json](data/public-contributions.json).
 
 ## Triage notes
 

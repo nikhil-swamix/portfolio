@@ -1,0 +1,768 @@
+{
+  "profile": {
+    "login": "nikhil-swamix",
+    "account_created": "2019-08-11T18:26:26Z",
+    "all_time_window": "2019-08-11 to present"
+  },
+  "all_time_totals": {
+    "contributionCalendar": 38685,
+    "commits": 37536,
+    "issues": 64,
+    "pullRequests": 11,
+    "pullRequestReviews": 5,
+    "issueComments": 147
+  },
+  "authored_issues": {
+    "count": 69,
+    "top": [
+      {
+        "url": "https://github.com/continuedev/continue/issues/1730",
+        "title": "Default context provider rather than typing @xyz everytime",
+        "createdAt": "2024-07-13T01:21:53Z",
+        "closedAt": "2025-12-16T02:15:56Z",
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 13
+        },
+        "reactions": {
+          "totalCount": 10
+        }
+      },
+      {
+        "url": "https://github.com/continuedev/continue/issues/2295",
+        "title": "Failed to config.json with every update, and stays non responsive until delete old config...",
+        "createdAt": "2024-09-18T10:26:33Z",
+        "closedAt": "2025-03-15T02:03:50Z",
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 9
+        },
+        "reactions": {
+          "totalCount": 3
+        }
+      },
+      {
+        "url": "https://github.com/Kilo-Org/kilocode/issues/1294",
+        "title": "After accept changes from agent, the file scroll position is lost. (video attached)",
+        "createdAt": "2025-07-13T19:00:17Z",
+        "closedAt": "2026-02-24T13:07:10Z",
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 3
+        },
+        "reactions": {
+          "totalCount": 3
+        }
+      },
+      {
+        "url": "https://github.com/RooCodeInc/Roo-Code/issues/5572",
+        "title": "Embeddings Feature is very rigid",
+        "createdAt": "2025-07-10T16:46:42Z",
+        "closedAt": "2025-07-10T19:47:49Z",
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 3
+        },
+        "reactions": {
+          "totalCount": 2
+        }
+      },
+      {
+        "url": "https://github.com/continuedev/continue/issues/2154",
+        "title": "Unable to complete in middle of sentence/code",
+        "createdAt": "2024-09-01T10:07:26Z",
+        "closedAt": "2025-03-14T02:06:36Z",
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 2
+        },
+        "reactions": {
+          "totalCount": 2
+        }
+      },
+      {
+        "url": "https://github.com/ollama/ollama/issues/4367",
+        "title": "better docs on python library settings",
+        "createdAt": "2024-05-11T21:24:29Z",
+        "closedAt": "2024-12-02T08:04:14Z",
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 4
+        },
+        "reactions": {
+          "totalCount": 1
+        }
+      },
+      {
+        "url": "https://github.com/RooCodeInc/Roo-Code/issues/5575",
+        "title": "Terrible indexing, returning only single lines, search for symbol tool much better than this!",
+        "createdAt": "2025-07-10T18:22:23Z",
+        "closedAt": "2025-07-10T19:57:55Z",
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 3
+        },
+        "reactions": {
+          "totalCount": 1
+        }
+      },
+      {
+        "url": "https://github.com/RooCodeInc/Roo-Code/issues/5564",
+        "title": "Add manual model name provision, as grok 4 is not populated",
+        "createdAt": "2025-07-10T14:44:31Z",
+        "closedAt": "2025-07-10T15:04:54Z",
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 3
+        },
+        "reactions": {
+          "totalCount": 1
+        }
+      },
+      {
+        "url": "https://github.com/microsoft/vscode/issues/195859",
+        "title": "Sticky Scroll not scaling with editor text size  (live example in attachment)",
+        "createdAt": "2023-10-18T04:17:05Z",
+        "closedAt": "2024-12-05T10:41:50Z",
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 3
+        },
+        "reactions": {
+          "totalCount": 1
+        }
+      },
+      {
+        "url": "https://github.com/RooCodeInc/Roo-Code/issues/5219",
+        "title": "\u26a0\ufe0fTo make \"prompt override\" warning dismissable or minimized or small icon info status and show on hover.",
+        "createdAt": "2025-06-28T19:20:58Z",
+        "closedAt": "2025-07-10T22:21:59Z",
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 2
+        },
+        "reactions": {
+          "totalCount": 1
+        }
+      },
+      {
+        "url": "https://github.com/RooCodeInc/Roo-Code/issues/5218",
+        "title": "\ud83d\udfe2 Using Structured outputs for higher effeciency, and reduced context!",
+        "createdAt": "2025-06-28T14:38:10Z",
+        "closedAt": "2025-06-28T15:57:21Z",
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 1
+        },
+        "reactions": {
+          "totalCount": 1
+        }
+      },
+      {
+        "url": "https://github.com/tursodatabase/libsql-client-py/issues/33",
+        "title": "\ud83d\udd34Destroy if not maintained anymore\ud83d\udd34",
+        "createdAt": "2024-11-27T12:21:09Z",
+        "closedAt": null,
+        "state": "OPEN",
+        "comments": {
+          "totalCount": 0
+        },
+        "reactions": {
+          "totalCount": 1
+        }
+      },
+      {
+        "url": "https://github.com/fivethree-team/vscode-svelte-snippets/issues/17",
+        "title": "Outdated",
+        "createdAt": "2024-02-13T03:31:31Z",
+        "closedAt": null,
+        "state": "OPEN",
+        "comments": {
+          "totalCount": 0
+        },
+        "reactions": {
+          "totalCount": 1
+        }
+      },
+      {
+        "url": "https://github.com/openstatusHQ/openstatus/issues/1371",
+        "title": "The Docs are unhelpful - unable to get started even after exactly following getting started - irony",
+        "createdAt": "2025-09-18T11:51:37Z",
+        "closedAt": "2025-12-04T09:59:06Z",
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 13
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "url": "https://github.com/Kilo-Org/kilocode/issues/505",
+        "title": "Shady Credit Consumption",
+        "createdAt": "2025-05-25T16:38:50Z",
+        "closedAt": "2025-07-01T13:29:24Z",
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 10
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "url": "https://github.com/chroma-core/chroma/issues/2219",
+        "title": "[Bug]: Type mismatch for embedding function",
+        "createdAt": "2024-05-16T21:03:33Z",
+        "closedAt": null,
+        "state": "OPEN",
+        "comments": {
+          "totalCount": 6
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "url": "https://github.com/ollama/ollama/issues/5744",
+        "title": "Model Cold Storage and user manual management possibility",
+        "createdAt": "2024-07-17T12:00:57Z",
+        "closedAt": null,
+        "state": "OPEN",
+        "comments": {
+          "totalCount": 5
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "url": "https://github.com/Kilo-Org/kilocode/issues/2478",
+        "title": "CRITICAL: Constant flickering, and uneditable fields when token generation active",
+        "createdAt": "2025-09-17T17:43:53Z",
+        "closedAt": "2026-02-23T17:30:01Z",
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 4
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "url": "https://github.com/huggingface/diffusers/issues/6865",
+        "title": "Missing check for Image instance for | from diffusers.utils import load_image",
+        "createdAt": "2024-02-06T01:20:47Z",
+        "closedAt": "2024-02-08T20:01:48Z",
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 4
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "url": "https://github.com/PowerShell/vscode-powershell/issues/4732",
+        "title": "in reference to issue #3727 , the \"unescaped color\" still exists",
+        "createdAt": "2023-09-08T02:30:14Z",
+        "closedAt": "2023-09-14T16:30:03Z",
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 4
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      }
+    ]
+  },
+  "authored_prs": {
+    "count": 17,
+    "top": [
+      {
+        "url": "https://github.com/ashu-512/pma-/pull/1",
+        "title": "chore: migrate frontend to react app with vite bundler",
+        "createdAt": "2025-12-15T22:52:55Z",
+        "closedAt": "2025-12-19T11:41:10Z",
+        "mergedAt": null,
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 1
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "url": "https://github.com/modelcontextprotocol/servers/pull/836",
+        "title": "Added bunx method",
+        "createdAt": "2025-03-13T10:34:31Z",
+        "closedAt": "2025-05-29T20:58:31Z",
+        "mergedAt": null,
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 1
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "url": "https://github.com/psf/requests/pull/6698",
+        "title": "Update README.md",
+        "createdAt": "2024-05-09T20:45:37Z",
+        "closedAt": "2024-05-10T10:11:27Z",
+        "mergedAt": null,
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 1
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "url": "https://github.com/docker/for-win/pull/12193",
+        "title": "Docker doctor for windows",
+        "createdAt": "2021-09-24T18:04:28Z",
+        "closedAt": "2021-10-01T04:59:52Z",
+        "mergedAt": null,
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 1
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "url": "https://github.com/mprerana/EN455_Spring2021_CG/pull/6",
+        "title": "Group_2 Final Pull Request",
+        "createdAt": "2021-05-17T11:11:18Z",
+        "closedAt": null,
+        "mergedAt": null,
+        "state": "OPEN",
+        "comments": {
+          "totalCount": 1
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "url": "https://github.com/web-agent-master/google-search/pull/14",
+        "title": "Add runtime i18n support for CLI and logs",
+        "createdAt": "2026-06-28T21:15:16Z",
+        "closedAt": null,
+        "mergedAt": null,
+        "state": "OPEN",
+        "comments": {
+          "totalCount": 0
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "url": "https://github.com/nikhil-swamix/softsynergysystems.com/pull/1",
+        "title": "Update from task d528abcb-cd6b-4f94-aa61-22264e578fe4",
+        "createdAt": "2026-02-21T20:29:51Z",
+        "closedAt": null,
+        "mergedAt": null,
+        "state": "OPEN",
+        "comments": {
+          "totalCount": 0
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "url": "https://github.com/prateek1656/hospix-backend/pull/8",
+        "title": "Dev intern",
+        "createdAt": "2024-08-02T17:22:39Z",
+        "closedAt": "2024-08-02T17:22:48Z",
+        "mergedAt": "2024-08-02T17:22:48Z",
+        "state": "MERGED",
+        "comments": {
+          "totalCount": 0
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "url": "https://github.com/prateek1656/hospix-backend/pull/6",
+        "title": "Itsnikhil2808/hos 30 integrating hfr",
+        "createdAt": "2024-07-08T21:09:41Z",
+        "closedAt": "2024-07-08T21:22:48Z",
+        "mergedAt": "2024-07-08T21:22:48Z",
+        "state": "MERGED",
+        "comments": {
+          "totalCount": 0
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "url": "https://github.com/prateek1656/hospix-backend/pull/5",
+        "title": "Itsnikhil2808/hoe 31 integrate hpr",
+        "createdAt": "2024-07-08T21:07:43Z",
+        "closedAt": "2024-07-08T21:07:57Z",
+        "mergedAt": "2024-07-08T21:07:57Z",
+        "state": "MERGED",
+        "comments": {
+          "totalCount": 0
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "url": "https://github.com/prateek1656/Hospix.in/pull/4",
+        "title": "Add documentation and expo project patchwork",
+        "createdAt": "2024-07-02T17:42:01Z",
+        "closedAt": "2024-07-02T17:42:09Z",
+        "mergedAt": "2024-07-02T17:42:09Z",
+        "state": "MERGED",
+        "comments": {
+          "totalCount": 0
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "url": "https://github.com/prateek1656/Hospix.in/pull/3",
+        "title": "Synchronize Latest changes on react migration and few ABDM modules integration",
+        "createdAt": "2024-06-25T17:03:35Z",
+        "closedAt": "2024-06-25T17:07:23Z",
+        "mergedAt": "2024-06-25T17:07:23Z",
+        "state": "MERGED",
+        "comments": {
+          "totalCount": 0
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "url": "https://github.com/mprerana/EN455_Spring2021_CG/pull/3",
+        "title": "added Group 2 Files",
+        "createdAt": "2021-05-17T07:40:30Z",
+        "closedAt": "2021-05-17T11:09:27Z",
+        "mergedAt": null,
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 0
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "url": "https://github.com/ashmithatalluri/proj3/pull/1",
+        "title": "a better solution by your friend nikhil swami",
+        "createdAt": "2020-09-13T19:29:24Z",
+        "closedAt": "2020-09-15T18:22:55Z",
+        "mergedAt": "2020-09-15T18:22:55Z",
+        "state": "MERGED",
+        "comments": {
+          "totalCount": 0
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "url": "https://github.com/shivamjha1947/Programming-Languages-Project/pull/3",
+        "title": "Create readme.md",
+        "createdAt": "2019-12-05T22:42:55Z",
+        "closedAt": "2019-12-05T22:43:05Z",
+        "mergedAt": null,
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 0
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "url": "https://github.com/shivamjha1947/Programming-Languages-Project/pull/2",
+        "title": "Final updates",
+        "createdAt": "2019-12-05T22:31:02Z",
+        "closedAt": "2019-12-06T08:58:25Z",
+        "mergedAt": "2019-12-06T08:58:25Z",
+        "state": "MERGED",
+        "comments": {
+          "totalCount": 0
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "url": "https://github.com/shivamjha1947/Programming-Languages-Project/pull/1",
+        "title": "updated code",
+        "createdAt": "2019-10-20T15:17:06Z",
+        "closedAt": "2019-12-06T09:04:33Z",
+        "mergedAt": null,
+        "state": "CLOSED",
+        "comments": {
+          "totalCount": 0
+        },
+        "reactions": {
+          "totalCount": 0
+        }
+      }
+    ]
+  },
+  "issue_comments": {
+    "count": 147,
+    "top": [
+      {
+        "createdAt": "2024-08-31T05:23:38Z",
+        "url": "https://github.com/ollama/ollama/issues/2941#issuecomment-2322778733",
+        "bodyText": "No help anywhere! Due to some urgent requirements for automated coding, I compiled this from source code RAG, hope a wandering soul discover this.\n\n\n\nVariable\nDefault Value\nDescription + Effect + Scenario\n\n\n\n\nOLLAMA_HOST\n\"http://127.0.0.1:11434\"\nConfigures the host and scheme for the Ollama server. Effect: Determines the URL used for connecting to the Ollama server. Scenario: Useful when deploying Ollama in a distributed environment or when you need to expose the service on a specific network interface.\n\n\nOLLAMA_ORIGINS\n[localhost, 127.0.0.1, 0.0.0.0] + app://, file://, tauri://\nConfigures allowed origins for CORS. Effect: Controls which origins are allowed to make requests to the Ollama server. Scenario: Critical when integrating Ollama with web applications to prevent unauthorized access from different domains.\n\n\nOLLAMA_MODELS\n$HOME/.ollama/models\nSets the path to the models directory. Effect: Determines where model files are stored and loaded from. Scenario: Useful for managing disk space on different drives or setting up shared model repositories in multi-user environments.\n\n\nOLLAMA_KEEP_ALIVE\n5 minutes\nSets how long models stay loaded in memory. Effect: Controls the duration models remain in memory after use. Scenario: Longer durations improve response times for frequent queries but increase memory usage. Shorter durations free up resources but may increase initial response times.\n\n\nOLLAMA_DEBUG\nfalse\nEnables additional debug information. Effect: Increases verbosity of logging and debugging output. Scenario: Invaluable for troubleshooting issues or understanding the system's behavior during development or deployment.\n\n\nOLLAMA_FLASH_ATTENTION\nfalse\nEnables experimental flash attention feature. Effect: Activates an experimental optimization for attention mechanisms. Scenario: Can potentially improve performance on compatible hardware but may introduce instability.\n\n\nOLLAMA_NOHISTORY\nfalse\nDisables readline history. Effect: Prevents command history from being saved. Scenario: Useful in security-sensitive environments where command history should not be persisted.\n\n\nOLLAMA_NOPRUNE\nfalse\nDisables pruning of model blobs on startup. Effect: Keeps all model blobs, potentially increasing disk usage. Scenario: Helpful when you need to maintain all model versions for compatibility or rollback purposes.\n\n\nOLLAMA_SCHED_SPREAD\nfalse\nAllows scheduling models across all GPUs. Effect: Enables multi-GPU usage for model inference. Scenario: Beneficial in high-performance computing environments with multiple GPUs to maximize hardware utilization.\n\n\nOLLAMA_INTEL_GPU\nfalse\nEnables experimental Intel GPU detection. Effect: Allows usage of Intel GPUs for model inference. Scenario: Useful for organizations leveraging Intel GPU hardware for AI workloads.\n\n\nOLLAMA_LLM_LIBRARY\n\"\" (auto-detect)\nSets the LLM library to use. Effect: Overrides automatic detection of LLM library. Scenario: Useful when you need to force a specific library version or implementation for compatibility or performance reasons.\n\n\nOLLAMA_TMPDIR\nSystem default temp directory\nSets the location for temporary files. Effect: Determines where temporary files are stored. Scenario: Important for managing I/O performance or when system temp directory has limited space.\n\n\nCUDA_VISIBLE_DEVICES\nAll available\nSets which NVIDIA devices are visible. Effect: Controls which NVIDIA GPUs can be used. Scenario: Critical for managing GPU allocation in multi-user or multi-process environments.\n\n\nHIP_VISIBLE_DEVICES\nAll available\nSets which AMD devices are visible. Effect: Controls which AMD GPUs can be used. Scenario: Similar to CUDA_VISIBLE_DEVICES but for AMD hardware.\n\n\nOLLAMA_RUNNERS_DIR\nSystem-dependent\nSets the location for runners. Effect: Determines where runner executables are located. Scenario: Important for custom deployments or when runners need to be isolated from the main application.\n\n\nOLLAMA_NUM_PARALLEL\n0 (unlimited)\nSets the number of parallel model requests. Effect: Controls concurrency of model inference. Scenario: Critical for managing system load and ensuring responsiveness in high-traffic environments.\n\n\nOLLAMA_MAX_LOADED_MODELS\n0 (unlimited)\nSets the maximum number of loaded models. Effect: Limits the number of models that can be simultaneously loaded. Scenario: Helps manage memory usage in environments with limited resources or many different models.\n\n\nOLLAMA_MAX_QUEUE\n512\nSets the maximum number of queued requests. Effect: Limits the size of the request queue. Scenario: Prevents system overload during traffic spikes and ensures timely processing of requests.\n\n\nOLLAMA_MAX_VRAM\n0 (unlimited)\nSets a maximum VRAM override in bytes. Effect: Limits the amount of VRAM that can be used. Scenario: Useful in shared GPU environments to prevent a single process from monopolizing GPU memory.",
+        "reactions": {
+          "totalCount": 265
+        }
+      },
+      {
+        "createdAt": "2024-06-22T06:55:24Z",
+        "url": "https://github.com/ollama/ollama/issues/4386#issuecomment-2183864197",
+        "bodyText": "",
+        "reactions": {
+          "totalCount": 23
+        }
+      },
+      {
+        "createdAt": "2024-05-13T17:53:42Z",
+        "url": "https://github.com/ollama/ollama/issues/4386#issuecomment-2108437451",
+        "bodyText": "+1",
+        "reactions": {
+          "totalCount": 8
+        }
+      },
+      {
+        "createdAt": "2024-10-10T06:45:27Z",
+        "url": "https://github.com/ollama/ollama/issues/2204#issuecomment-2404180005",
+        "bodyText": "cant i do ?\nollama setdefault num_ctx=8192 or similar?\nlacking this critical feature. i have to create a proxy so model does not re init with requests of different num_ctx?\nim getting migrane as i see models loading and unloading as i make http requests. please suggest best method.\n@jmorganca",
+        "reactions": {
+          "totalCount": 7
+        }
+      },
+      {
+        "createdAt": "2023-12-07T19:31:31Z",
+        "url": "https://github.com/microsoft/terminal/issues/13281#issuecomment-1845979261",
+        "bodyText": "@trparky @paradokx if problem is severe and ur managing lot of profiles,\nyou may want to have a look at https://github.com/Nikhil-Software-Cartel/TerminalProfileManager\nfeel free to open PRs for roadmaps/improvements.\n\n  \n    \n    \n\n    2023-12-08.00-59-30.mp4",
+        "reactions": {
+          "totalCount": 6
+        }
+      },
+      {
+        "createdAt": "2024-11-20T05:28:48Z",
+        "url": "https://github.com/ollama/ollama/issues/2941#issuecomment-2487485965",
+        "bodyText": "as i understand from yu's comment, 0.4.2 has good improvement of vars, and original file of go env config seem to be changed, rather improved...\nwhat would be better if a docs page is provided... atleast something like\nhttps://docs.continue.dev/getting-started/install\nat this point ive scanned most source of ollama so, maybe not apply to me, but new user definitely benefit from docs, and thousands by the day with the rise of AI!\nif any maintainer looking, please let me know if doc page is required. im having a experimental agent which generates doc sites. hoping to make meaningful contrib to ollama.",
+        "reactions": {
+          "totalCount": 4
+        }
+      },
+      {
+        "createdAt": "2024-08-05T01:32:08Z",
+        "url": "https://github.com/tursodatabase/libsql-python/issues/63#issuecomment-2268010516",
+        "bodyText": "this is a blocker for all windows users. can confirm\n\npython 3.12\neverything is installed! cmake msvc, so problem is with dependencies or packages.",
+        "reactions": {
+          "totalCount": 4
+        }
+      },
+      {
+        "createdAt": "2025-06-28T19:11:53Z",
+        "url": "https://github.com/RooCodeInc/Roo-Code/issues/4047#issuecomment-3015989672",
+        "bodyText": "#5218\nWas literally thinking the same! time to replace old machinery!\nactually in theory these mini models can now perform significantly better if implemented nicely. ofcourse for small codebases and simple refactors, and spirit of opensource thrives! thanks in advance!",
+        "reactions": {
+          "totalCount": 3
+        }
+      },
+      {
+        "createdAt": "2024-11-06T06:24:14Z",
+        "url": "https://github.com/ollama/ollama/issues/2204#issuecomment-2458811920",
+        "bodyText": "The context limit defaults to 2048, it can be made larger with the num_ctx parameter in the API. However for large amounts of data, folks often use a workflow called RAG to store data outside of the context window and bring in chunks where required. Hope this helps!\n\nthis is not true, chunking RAG is bad or in other words, atleast 500 tokens fetched for top 3 results would be 75% of 2048, and leaves with mere 500 tokens to work with. and folks using ollama usually know hardware reqs, especially on production they get bigger machines for safety and accomodate Compute and memory. an article axplains this\n\nas @homjay pointed, people are ever hungry for longer context as they compensate for finetuning and increase relevance, as big as 2048 may sound, its actually numbers from 2022... and most settings are preferred on server side/one time setup rather than API calls. on a side note, i would like to raise a PR which allows enhanced env settings which allow to configure defaults for a model tag ollama setenv <TAG> num_ctx <VALUE> as there are other settings like GPU/Layer splitting which do the same API based and leads to reloading in most cases.\nplease guide me @jmorganca , im not a go lang expert, but will try my best.",
+        "reactions": {
+          "totalCount": 3
+        }
+      },
+      {
+        "createdAt": "2024-08-23T13:40:25Z",
+        "url": "https://github.com/microsoft/WSL/issues/111#issuecomment-2307120525",
+        "bodyText": "for people running cli scripts in python: disable this\nTerminal \u203a Integrated: Windows Enable Conpty\nkey navigation will work, for packages like rich, fire, click cli tools...",
+        "reactions": {
+          "totalCount": 3
+        }
+      },
+      {
+        "createdAt": "2024-11-06T10:45:34Z",
+        "url": "https://github.com/ollama/ollama/issues/7522#issuecomment-2459411046",
+        "bodyText": "Dear Anshika, glad to hear that the attempts yielded positive outcome. hope issue marked as closed.\nbest regards,\nSwamix Global AI Solutions, swamix.com",
+        "reactions": {
+          "totalCount": 2
+        }
+      },
+      {
+        "createdAt": "2024-10-22T16:35:24Z",
+        "url": "https://github.com/ollama/ollama/issues/1005#issuecomment-2429752561",
+        "bodyText": "A simple binary search to find the limit of max tokens will be sufficient, model will find full usage of memory, and set upper limit with percentage like allow -max_mem 95% of gpu mem for ctx expansion. the absolute ignorance of this deadly issue (which im coming back and checking every week if fixed) ... #5949 #2927 #2442 (cross linking)\nExperiences:\n\nan educational instute faced consistently poor result as parsed pdf overflowed ctx! (had suggested gemini free tier 1M tok)\nnot every applications which use ollama can set themselves, so a pyth based chat-completion option modifying proxy is being developed like berry Litellm... (side effect of many stuff not configurable/insane defaults)\nif you want some extra horsepower post the the engineering challenges in discussions, people will pickup, rather that waiting for them to open issue . (first principles)\n\nyours painfully,\nSwamix.",
+        "reactions": {
+          "totalCount": 2
+        }
+      },
+      {
+        "createdAt": "2023-12-03T02:04:18Z",
+        "url": "https://github.com/microsoft/terminal/issues/8914#issuecomment-1837309592",
+        "bodyText": "2023-12-03.03-05-45.mp4\n    \n  \n\n  \n\n  \n\n\nplease have a look at the video. and code https://github.com/nikhil-swamix/TerminalProfileManager .\nContext, wrong order was reducing productivity for me. so built this. but kind of works, atleast on my pc.  this is more like modding, not official solution.\nFeatures:\n\ndrag and drop profiles to reorder them, and save the new order to the settings file.\nintelligently read settings from AppData/Local folder irrespective of user name.\ncolor theme matched to windows terminal dark mode.\nedit/extend logic using simple python code and change GUI using html and css.\nif python already installed, half the setup is done.\njquery, jquery-UI and bootstrap used for GUI. Keyboard support in future.\nhidden profiles explicitly dimmed.\n\nFuture Development:\n\nAdd searchbar - fuzzy search when you have too many profiles\nalways on top window setting, which allows quick nav.\nHide Unhide profile Toggle button for each profile\nmore profile customization via the float popup.\n\n@allusernamestakenexceptthis @eduarddejong @raghuwanshi @redneQ @zadjii-msft @NewtonChutney @tietomattias @ggjulio @ultrasound1372 @psztoch @brian-kneebone-hp-com @BuzyBeeC @carlos-zamora",
+        "reactions": {
+          "totalCount": 2
+        }
+      },
+      {
+        "createdAt": "2023-09-17T17:52:03Z",
+        "url": "https://github.com/MrPigss/BetterJSONStorage/issues/5#issuecomment-1722529862",
+        "bodyText": "ok i found solution,\ndelete any old database, if you are trying to use db.json created with native lib re-create it.",
+        "reactions": {
+          "totalCount": 2
+        }
+      },
+      {
+        "createdAt": "2025-09-18T18:02:45Z",
+        "url": "https://github.com/RooCodeInc/Roo-Code/issues/4047#issuecomment-3308857365",
+        "bodyText": "If the API you're using is compatible with the OpenAI API, you may be able to determine whether the issue actually improves by trying the following tool: native_tool_call_adapter\n\n@irreg This is amazing, was developing something similar ! except, dint like the XML elem tree syntax so was using selectolax or regex parsing... and altering the prompt to keep only diagnostic messages. Another problem was listing models and multi provider support.\nimportance of customizability\nI think augmentative servers like this allows for greater flexibility. as i believe magic is in using the existing stuffs properly...\nis it worth?\nBenefits are actually there, compared to xml. as i observed the json outputs are on point with most models, they treat them with importance, and generation speed is slightly faster, as they are only filling places of schema. (read on some vllm / online blog), but varies as per provider implementation. (grok is not good)\nsupport\ni encourage you to build further on this, please let me know if require my help.\nMain App\n\"\"\"\nA FastAPI proxy server for routing embedding requests to various AI vendors.\n\nThis proxy acts as a unified endpoint for different embedding services.\nClients can specify the desired vendor in the request URL, and the proxy\nforwards the request to the appropriate vendor's API, handling authentication\nand returning the vendor's response.\n\"\"\"\n\nimport httpx, json\nfrom fastapi import FastAPI, Request, Response, HTTPException, status\nfrom litellm import acompletion, model_list\n\n# print(model_list)\n# --- Configuration ---\n# Mapping of vendor names to their target API endpoints.\n# This allows the proxy to be easily extended for new services.\nVENDOR_URLS = {\n    # first-party\n    \"openai\": \"https://api.openai.com/v1\",\n    \"xai\": \"https://api.x.ai/v1\",\n    \"deepseek\": \"https://api.deepseek.com/v1\",\n    \"groq\": \"https://api.groq.com/openai/v1\",\n    \"anthropic\": \"https://api.anthropic.com/v1\",\n    \"mistral\": \"https://api.mistral.ai/v1\",\n    \"google\": \"https://generativelanguage.googleapis.com/v1beta\",\n    \"perplexity\": \"https://api.perplexity.ai/v1\",\n    # third-party inference\n    \"openrouter\": \"https://openrouter.ai/api/v1\",\n    \"cerebras\": \"https://api.cerebras.ai/v1\",\n    \"deepinfra\": \"https://api.deepinfra.com/v1/openai\",\n    \"together\": \"https://api.together.xyz/v1\",\n    \"fireworks\": \"https://api.fireworks.ai/inference/v1\",\n    \n    \"voyageai\": \"https://api.voyageai.com/v1\",\n    \"huggingface\": \"https://api-inference.huggingface.co/v1\",\n    \"replicate\": \"https://api.replicate.com/v1\",\n    \"anyscale\": \"https://api.endpoints.anyscale.com/v1\",\n    \"cohere\": \"https://api.cohere.ai/v1\",\n    \"friendli\": \"https://inference.friendli.ai/v1\",\n    \"cloudflare\": \"https://api.cloudflare.com/client/v4/accounts/{account_id}/ai/run\",\n    \"nvidia\": \"https://api.nvidia.com/v1\",\n    \"ai21labs\": \"https://api.ai21.com/v1\",\n    \"azure\": \"https://YOUR_RESOURCE_NAME.openai.azure.com/openai/deployments/YOUR_DEPLOYMENT_NAME\",\n    \"aws\": \"https://runtime.sagemaker.{region}.amazonaws.com/endpoints/{endpoint_name}/invocations\",\n    \"bedrock\": \"https://bedrock-runtime.{region}.amazonaws.com/model/{model_id}/invoke\",\n    \"ibm\": \"https://us-south.ml.cloud.ibm.com/ml/v1/generation\",\n    \"oci\": \"https://generativeai.{region}.oci.oraclecloud.com/20231130/actions/chat\",\n    # local\n    \"lmstudio\": \"http://localhost:1234/v1\",\n    \"ollama\": \"http://localhost:11434/v1\",\n    \"vllm\": \"http://localhost:8000/v1\",\n    \"llamafile\": \"http://localhost:8080/v1\",\n    \"novita\": \"https://api.novita.ai/v1\",\n    \"baseten\": \"https://app.baseten.co/model_endpoints/v1/chat\",\n    \"samba\": \"https://api.sambanova.ai/v1\",\n    \"dashscope\": \"https://dashscope.aliyuncs.com/api/v1\",\n    \"bytez\": \"https://api.bytedance.com/bot/v1/chat\",\n}\n\nDEFAULT_KEYS = {\n    \"voyageai\": \"Bearer ******\",\n}\napp = FastAPI()\n\n\n# create /chat/completions and just log to file req.txt\n\n\n@app.post(\"/chat/completions\")\nasync def proxy_chat_completions_request(request: Request):\n    r = await request.json()\n    \n    print(r['model'])\n    c = await acompletion(base_url=\"\")\n    # c = await acompletion()\n    return \"apple\"\n\n\n# /models\n@app.get(\"/models\")\nasync def proxy_models_request(request: Request):\n    \"\"\"\n    Returns a list of available models from LiteLLM.\n\n    This endpoint dynamically generates the list of models by iterating through\n    LiteLLM's model registry and including relevant metadata.\n\n    Returns:\n        A JSON response containing the list of models in OpenAI format.\n    \"\"\"\n    from litellm import model_cost\n\n    models = model_cost.keys()\n    return {\n        \"object\": \"list\",\n        \"data\": [\n            {\"id\": \"ultra-fast\", \"object\": \"model\", \"created\": 1686935002, \"owned_by\": \"miltiple\"},\n            {\"id\": \"rotate-lite\", \"object\": \"model\", \"created\": 1686935002, \"owned_by\": \"miltiple\"},\n            {\"id\": \"rotate-heavy\", \"object\": \"model\", \"created\": 1686935002, \"owned_by\": \"miltiple\"},\n            {\"id\": \"swamix-auto\", \"object\": \"model\", \"created\": 1686935002, \"owned_by\": \"swamix\"},\n        ],\n        \"object\": \"list\",\n    }\n\n\n@app.post(\"/v1/{vendor}/embeddings\")\nasync def proxy_embeddings_request(vendor: str, request: Request):\n    \"\"\"\n    Proxies an embedding request to a specified vendor.\n\n    This endpoint receives an embedding request, determines the target vendor\n    from the URL, and forwards the request with the original headers and body.\n\n    Args:\n        vendor: The name of the AI vendor (e.g., 'openai', 'deepinfra').\n        request: The incoming FastAPI request object.\n\n    Raises:\n        HTTPException:\n            - 404 Not Found: If the specified vendor is not supported.\n            - 401 Unauthorized: If the Authorization header is missing.\n            - 503 Service Unavailable: If there's an error communicating with the vendor.\n            - 500 Internal Server Error: For any other unexpected errors.\n\n    Returns:\n        A FastAPI Response object containing the content, status code, and\n        headers from the vendor's response.\n    \"\"\"\n    target_url = VENDOR_URLS.get(vendor)\n    if not target_url:\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail=f\"Vendor '{vendor}' is not supported.\")\n\n    authorization_header = request.headers.get(\"authorization\")\n    if not authorization_header:\n        raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail=\"Authorization header is missing.\")\n\n    request_body = await request.json()\n    if vendor == \"deepinfra\":\n        # DeepInfra requires the encoding_format to be specified for some models\n        request_body[\"encoding_format\"] = \"float\"\n    elif vendor == \"voyageai\":\n        # VoyageAI requires input_type to be specified\n        if \"input_type\" not in request_body:\n            request_body[\"input_type\"] = \"document\"\n\n    headers_to_forward = {\n        \"Authorization\": authorization_header,\n        \"Content-Type\": \"application/json\",\n    }\n\n    async with httpx.AsyncClient() as client:\n        try:\n            response = await client.post(target_url, headers=headers_to_forward, json=request_body, timeout=60.0)\n            return Response(content=response.content, status_code=response.status_code, headers=dict(response.headers))\n        except httpx.RequestError as exc:\n            raise HTTPException(status_code=status.HTTP_503_SERVICE_UNAVAILABLE, detail=f\"An error occurred while communicating with the vendor: {exc}\")\n        except Exception as exc:\n            raise HTTPException(status_code=status.HTTP_500_INTERNAL_SERVER_ERROR, detail=f\"An unexpected error occurred: {exc}\")\n\n\nif __name__ == \"__main__\":\n    import uvicorn\n\n    print(\"Starting proxy server on http://0.0.0.0:9001\")\n    # The string \"custom_openai_proxy:app\" tells uvicorn where to find the FastAPI instance.\n    # reload=True is great for development as it automatically restarts on code changes.\n    uvicorn.run(\"custom_openai_proxy:app\", host=\"0.0.0.0\", port=9001, reload=True)\nmodels\n# models.py\nfrom pydantic import BaseModel, Field\nfrom typing import List, Optional\n\n\nclass SuggestItem(BaseModel):\n    \"\"\"\n    Represents a suggested answer for the ask_followup_question tool.\n    The text is the suggested answer, and mode is an optional attribute\n    to specify a mode switch.\n    \"\"\"\n    text: str = Field(..., description=\"The suggested answer text.\")\n    mode: Optional[str] = Field(None, description=\"Optional mode to switch to when this suggestion is selected.\")\n\n\nclass AskFollowupQuestion(BaseModel):\n    \"\"\"\n    Model for the ask_followup_question tool.\n    Asks the user a question with suggested answers.\n    \"\"\"\n    question: str = Field(..., description=\"The question to ask the user.\")\n    follow_up: List[SuggestItem] = Field(..., description=\"A list of 2-4 suggested answers.\")\n\n\nclass AttemptCompletion(BaseModel):\n    \"\"\"\n    Model for the attempt_completion tool.\n    Presents the final result of a task.\n    \"\"\"\n    result: str = Field(..., description=\"The final result of the task.\")\n\n\nclass SwitchMode(BaseModel):\n    \"\"\"\n    Model for the switch_mode tool.\n    Requests to switch to a different mode.\n    \"\"\"\n    mode_slug: str = Field(..., description=\"The slug of the mode to switch to (e.g., 'code', 'ask', 'architect').\")\n    reason: Optional[str] = Field(None, description=\"The reason for switching modes.\")\n\n\nclass NewTask(BaseModel):\n    \"\"\"\n    Model for the new_task tool.\n    Creates a new task instance in a chosen mode.\n    \"\"\"\n    mode: str = Field(..., description=\"The slug of the mode to start the new task in (e.g., 'code', 'debug', 'architect').\")\n    message: str = Field(..., description=\"The initial user message or instructions for this new task.\")\n\n\nclass UpdateTodoList(BaseModel):\n    \"\"\"\n    Model for the update_todo_list tool.\n    Replaces the entire TODO list with an updated checklist.\n    The 'todos' field represents the full markdown checklist string.\n    \"\"\"\n    todos: str = Field(..., description=\"The full markdown formatted checklist string to replace the current list.\")\n\n\n# Additional models for the second file's tools\nclass ReadFileArgsFile(BaseModel):\n    path: str = Field(..., description=\"File path (relative to workspace directory c:\\\\Github\\\\SwamixGlobal)\")\n\n\nclass ReadFileArgs(BaseModel):\n    file: List[ReadFileArgsFile]\n\n\nclass ReadFile(BaseModel):\n    args: ReadFileArgs\n\n\nclass FetchInstructions(BaseModel):\n    task: str = Field(..., description=\"The task to get instructions for (e.g., 'create_mcp_server', 'create_mode')\")\n\n\nclass SearchFiles(BaseModel):\n    path: str = Field(..., description=\"The path of the directory to search in (relative to the current workspace directory)\")\n    regex: str = Field(..., description=\"The regular expression pattern to search for\")\n    file_pattern: Optional[str] = Field(None, description=\"Glob pattern to filter files (e.g., '*.ts')\")\n\n\nclass ListFiles(BaseModel):\n    path: str = Field(..., description=\"The path of the directory to list contents for (relative to the current workspace directory)\")\n    recursive: Optional[bool] = Field(False, description=\"Whether to list files recursively\")\n\n\nclass ListCodeDefinitionNames(BaseModel):\n    path: str = Field(..., description=\"The path of the file or directory to analyze (relative to the current working directory)\")\n\n\nclass ApplyDiffDiffBlock(BaseModel):\n    start_line: int = Field(..., description=\"The line number of original content where the search block starts.\")\n    search_content: str = Field(..., description=\"Exact content to find including whitespace\")\n    replace_content: str = Field(..., description=\"New content to replace with\")\n\n\nclass ApplyDiff(BaseModel):\n    path: str = Field(..., description=\"The path of the file to modify (relative to the current workspace directory)\")\n    diff: List[ApplyDiffDiffBlock] = Field(..., description=\"List of search/replace blocks defining the changes\")\n\n\nclass WriteToFile(BaseModel):\n    path: str = Field(..., description=\"The path of the file to write to (relative to the current workspace directory)\")\n    content: str = Field(..., description=\"The complete content to write to the file\")\n    line_count: int = Field(..., description=\"The number of lines in the file\")\n\n\nclass InsertContent(BaseModel):\n    path: str = Field(..., description=\"File path relative to workspace directory\")\n    line: int = Field(..., description=\"Line number where content will be inserted (1-based). Use 0 to append at end.\")\n    content: str = Field(..., description=\"The content to insert at the specified line\")\n\n\nclass SearchAndReplace(BaseModel):\n    path: str = Field(..., description=\"The path of the file to modify (relative to the current workspace directory)\")\n    search: str = Field(..., description=\"The text or pattern to search for\")\n    replace: str = Field(..., description=\"The text to replace matches with\")\n    start_line: Optional[int] = Field(None, description=\"Starting line number for restricted replacement (1-based)\")\n    end_line: Optional[int] = Field(None, description=\"Ending line number for restricted replacement (1-based)\")\n    use_regex: Optional[bool] = Field(False, description=\"Set to true to treat search as a regex pattern\")\n    ignore_case: Optional[bool] = Field(False, description=\"Set to true to ignore case when matching\")\n\n\nclass ExecuteCommand(BaseModel):\n    command: str = Field(..., description=\"The CLI command to execute\")\n    cwd: Optional[str] = Field(None, description=\"The working directory to execute the command in\")\n\n\nclass AllTools(BaseModel):\n    ask_followup_question: AskFollowupQuestion\n    attempt_completion: AttemptCompletion\n    switch_mode: SwitchMode\n    new_task: NewTask\n    update_todo_list: UpdateTodoList\n    read_file: ReadFile\n    fetch_instructions: FetchInstructions\n    search_files: SearchFiles\n    list_files: ListFiles\n    list_code_definition_names: ListCodeDefinitionNames\n    apply_diff: ApplyDiff\n    write_to_file: WriteToFile\n    insert_content: InsertContent\n    search_and_replace: SearchAndReplace\n    execute_command: ExecuteCommand",
+        "reactions": {
+          "totalCount": 1
+        }
+      },
+      {
+        "createdAt": "2025-09-01T13:43:03Z",
+        "url": "https://github.com/RooCodeInc/Roo-Code/issues/4047#issuecomment-3242437432",
+        "bodyText": "https://docs.x.ai/docs/guides/grok-code-prompt-engineering\n\nEven grok officials recommend against 19th century XML\nSuch a critical yet obvious feature still not available? 1000s of developers using unnecessary bloated tool guidance with each call, causing severe enviornmental impact (not visible), which also causes wasted tokens. its like using mountain bike on regular roads.\ni bet a sharp SDE-2 can do with current available tech, and simple vscode extension...\nEstimated effort is 3-5 days, with around 1000 lines of code, and few hours of testing,\nI wanted to contribute, tempted to create another fork, but the contribution guidelines scare me,\npotential wasted efforts as other might already working on it. so basically helpless.\nRequest: Dont follow cline's commits, detach from there completely please.",
+        "reactions": {
+          "totalCount": 1
+        }
+      },
+      {
+        "createdAt": "2025-07-13T21:50:44Z",
+        "url": "https://github.com/Kilo-Org/kilocode/issues/505#issuecomment-3067320531",
+        "bodyText": "Ok seems resolved...\n@HadesArchitect @EamonNerbonne\nthe resolution was setting up own keys, i checked openai/anthropic/google for token I/O, and price. they seemed to be aligned.\nsorry for delayed response",
+        "reactions": {
+          "totalCount": 1
+        }
+      },
+      {
+        "createdAt": "2024-11-06T06:27:29Z",
+        "url": "https://github.com/ollama/ollama/issues/7522#issuecomment-2458815800",
+        "bodyText": "could you try a different proxy? some proxies disallow ports, or have bandwidth throttles in my exp... let me know if work",
+        "reactions": {
+          "totalCount": 1
+        }
+      },
+      {
+        "createdAt": "2024-11-01T06:22:06Z",
+        "url": "https://github.com/ollama/ollama/issues/6623#issuecomment-2451366368",
+        "bodyText": "thanks for guidence @smallstepman and others , i appreciate the research by @NVIDIA,\n\nbut hell...\nlets successively open issues EVERY day 1/member on related nvidia repos, requesting the update? we purchased nvidia GPUs man, any software/AI should be free to run if it can run (it definitely runs on ollama). thats ultimate neglect to users.\nthese are the repo related\n\nhttps://github.com/NVIDIA/GenerativeAIExamples | https://github.com/NVIDIA/GenerativeAIExamples/blob/main/docs/change-model.md\nhttps://huggingface.co/nvidia/NV-Embed-v2/discussions\ni would be opening 1 every day, and link back this repo. hope your support (some might deny my strategy and call me criminal, but people are dependent on me for better embeddings, and im nvidia customer.)",
+        "reactions": {
+          "totalCount": 1
+        }
+      },
+      {
+        "createdAt": "2024-10-21T22:47:48Z",
+        "url": "https://github.com/appwrite/console/issues/1435#issuecomment-2434387883",
+        "bodyText": "Any update? it is a blocker for me, in early stages a lot of attributes would be CRUDed, and order is important as you cant have name changes to fullname, and its added somewhere in last, and migrations will be difficult.\nRelated issue appwrite/appwrite#6286",
+        "reactions": {
+          "totalCount": 1
+        }
+      },
+      {
+        "createdAt": "2024-09-15T23:36:14Z",
+        "url": "https://github.com/chroma-core/chroma/pull/1327#issuecomment-2351834505",
+        "bodyText": "Our underlying impl has changed and so this PR is not landable as is.\nThat being said - we'd still like to add this functionality and that is now tracked in this issue.\n\nIm really concerned, the way chroma is heading. so this guy's few hour effort for PR is now garbage. which would handicap lot of enthusiasts and scared from contributing. i have most utils seperately written just as inbuilt stuffs just break or show type error/mismatch with new versions. no offence just my perspective. regards.",
+        "reactions": {
+          "totalCount": 1
+        }
+      },
+      {
+        "createdAt": "2024-09-04T16:04:36Z",
+        "url": "https://github.com/ollama/ollama/issues/6623#issuecomment-2329460899",
+        "bodyText": "this should be priority",
+        "reactions": {
+          "totalCount": 1
+        }
+      },
+      {
+        "createdAt": "2024-08-05T01:40:33Z",
+        "url": "https://github.com/tursodatabase/libsql-python/issues/64#issuecomment-2268016557",
+        "bodyText": "create a turso client along with engine, and use the sqlalchemy default file as input to the turso client, currently i dont found another way, please let me know if it works.",
+        "reactions": {
+          "totalCount": 1
+        }
+      },
+      {
+        "createdAt": "2023-09-14T01:09:57Z",
+        "url": "https://github.com/PowerShell/vscode-powershell/issues/4732#issuecomment-1718507864",
+        "bodyText": "I think the issue can be marked as closed, as I used a different \"code\noutput\" console in vscode, and changed the methodology of running my\nscripts. Thank you for your response.\n\u2026\nOn Thu, Sep 14, 2023 at 3:10\u202fAM Sydney Smith ***@***.***> wrote:\n Thanks @Nikhil-Software-Cartel <https://github.com/Nikhil-Software-Cartel>\n could you provide a little more context around what you are expecting to\n see, thanks!\n\n \u2014\n Reply to this email directly, view it on GitHub\n <#4732 (comment)>,\n or unsubscribe\n <https://github.com/notifications/unsubscribe-auth/AM4AVT5XHXAPJX4CWLYIWFDX2IR6XANCNFSM6AAAAAA4PXDTHA>\n .\n You are receiving this because you were mentioned.Message ID:\n ***@***.***>",
+        "reactions": {
+          "totalCount": 1
+        }
+      },
+      {
+        "createdAt": "2020-12-14T18:45:41Z",
+        "url": "https://github.com/andabi/deep-voice-conversion/issues/129#issuecomment-744635602",
+        "bodyText": "it would be great if The owners provide a how to use / quickstart guide. the entry threshold seems high...",
+        "reactions": {
+          "totalCount": 1
+        }
+      },
+      {
+        "createdAt": "2025-12-08T14:06:47Z",
+        "url": "https://github.com/microsoft/terminal/issues/8914#issuecomment-3627105758",
+        "bodyText": "whats the ETA for > Profile reordering for Settings UI ?",
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "createdAt": "2025-11-28T13:30:19Z",
+        "url": "https://github.com/Factory-AI/factory/issues/447#issuecomment-3589355399",
+        "bodyText": "Confirmed bug!\n@theoi @bentossell @iannuttall",
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "createdAt": "2025-09-19T10:01:46Z",
+        "url": "https://github.com/Kilo-Org/kilocode/issues/2483#issuecomment-3311541394",
+        "bodyText": "mkdirs parent folder\ntouch /share/powerlevel10k/powerlevel10k.zsh-theme the file\n\n\nbasic debugging bro.",
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "createdAt": "2025-09-18T12:13:18Z",
+        "url": "https://github.com/webiny/webiny-js/issues/4669#issuecomment-3307124726",
+        "bodyText": "noice",
+        "reactions": {
+          "totalCount": 0
+        }
+      },
+      {
+        "createdAt": "2025-09-18T10:46:05Z",
+        "url": "https://github.com/Kilo-Org/kilocode/issues/2478#issuecomment-3306769319",
+        "bodyText": "chat anything\nLet the model output for few seconds (try deepseek as its slow and effect is visible)\nas the tokens are generated , go to settings and try adding custom instructions, or change any parameter\nthe settings UI is freezes, and 'save' 'done' buttons flicker, and are unclickable until all the generation is completed.",
+        "reactions": {
+          "totalCount": 0
+        }
+      }
+    ]
+  }
+}
